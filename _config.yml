@@ -1,0 +1,8 @@
+title: tong's blog
+description: blog and wiki
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
